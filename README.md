@@ -1,1 +1,1 @@
-capsulas de  codigo de python# python
+capsula de codigo en python de operaciones crud, mysql 
