@@ -1,1 +1,1 @@
-capsulas de  codigo de python# python
+capsulas de  codigo de python
