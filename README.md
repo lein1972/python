@@ -1,1 +1,1 @@
-capsulas de conocimientos de python
+capsulas de conocimientos de python para pruebas
