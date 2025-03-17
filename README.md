@@ -1,1 +1,1 @@
-capsulas de  codigo de python
+capsulas de conocimientos de proyectos laravel aplicables a cualquier lenguaje de programación
