@@ -1,1 +1,1 @@
-capsulas de conocimiento python, jwt, token
+capsulas de conocimiento python, jwt
