@@ -1,6 +1,8 @@
 def sumar(a, b):
     """Esta función suma dos números y devuelve el resultado."""
+
     return a + b + 10
+
 
 # Definir los números pares
 num1 = 1
