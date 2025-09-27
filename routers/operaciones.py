@@ -12,7 +12,7 @@ print(f"La suma de {num1} y {num2} es {resultado}")
 
 def restar(a, b):
     """
-    Esta funcion toma dos números (a y b) y devuelve el resultado de a - b.
+    Esta función toma dos números (a y b) y devuelve el resultado de a - b.
     """
     return a - b
 
