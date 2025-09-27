@@ -2,7 +2,7 @@ def sumar_numeros(a, b):
   """Esta función suma dos números y devuelve el resultado."""
   return a + b
 
-# Definir los números
+# Definir los números pares
 num1 = 5
 num2 = 3
 
