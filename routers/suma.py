@@ -1,15 +1,15 @@
-def sumar_numeros(a, b, c):
+def sumar_numeros(a, b):
   """Esta función suma dos números y devuelve el resultado."""
-  return a + b + c
+  return a + b 
 
 # Definir los números pares
 num1 = 5
 num2 = 3
-num3 = 10
+
 
 # Llamar a la función y mostrar el resultado
-resultado = sumar_numeros(num1, num2,num3)
-print(f"La suma de {num1} y {num2} y {num3} es {resultado}")
+resultado = sumar_numeros(num1, num2)
+print(f"La suma de {num1} y {num2} es {resultado}")
 
 def restar_numeros(a, b):
   """
