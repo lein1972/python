@@ -3,8 +3,8 @@ def sumar_numeros(a, b):
   return a + b 
 
 # Definir los números pares
-num1 = 99
-num2 = 88
+num1 = 1
+num2 = 2
 
 
 # Llamar a la función y mostrar el resultado
