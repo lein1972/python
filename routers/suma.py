@@ -4,7 +4,7 @@ def sumar_numeros(a, b):
 
 # Definir los números pares
 num1 = 5
-num2 = 3
+num2 = 10
 
 
 # Llamar a la función y mostrar el resultado
