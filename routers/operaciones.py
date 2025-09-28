@@ -29,3 +29,13 @@ resultado = restar(numero1, numero2)
 
 # Imprimir el resultado
 print(f"La resta de {numero1} menos {numero2} es: {resultado}")
+
+def multiplicar_numeros(a, b):
+  """Esta función multiplica dos números y devuelve el resultado."""
+  return a * b
+
+# Ejemplo de uso
+n1 = 6
+n2 = 7
+resultado_mult = multiplicar_numeros(n1, n2)
+print(f"La multiplicación de {n1} por {n2} es: {resultado_mult}")
