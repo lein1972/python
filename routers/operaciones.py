@@ -5,7 +5,7 @@ def sumar(a, b):
 
 
 # Definir los números pares
-num1 = 150
+num1 = 200
 num2 = 2
 
 # Llamar a la función y mostrar el resultado
