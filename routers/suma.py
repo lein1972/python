@@ -3,7 +3,7 @@ def sumar_numeros(a, b):
   return a + b 
 
 # Definir los números pares
-num1 =250
+num1 =260
 num2 = 4
 
 
