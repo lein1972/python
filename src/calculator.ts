@@ -9,4 +9,5 @@ export function add(a: number, b: number): number {
    // TU CAMBIO: Añades un comentario de versión
   // Version 2.0: Suma simple
   return a + b;
+
 }
