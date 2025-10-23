@@ -6,5 +6,7 @@
  * @returns La suma de a y b.
  */
 export function add(a: number, b: number): number {
-  return a + b;
+// COLEGA CAMBIA: Usa una variable temporal
+  const total = a + b;
+  return total;
 }
